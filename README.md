@@ -1,2 +1,1 @@
-# Ingame-Google-docs
-Ingame google docs
+Dies ist mein Geistiges Eigentum verkauf oder ausgeben für eigenes Script ist untersagt
